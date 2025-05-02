@@ -69,7 +69,7 @@ This repository provides an overview of fundamental networking concepts, accompa
 
 ## Router
 
-* ![Router](https://as2.ftcdn.net/v2/jpg/03/09/87/65/1000_F_309876519_7zY2v9Y3fK6xg6x7xY2v9Y3fK6xg6x7x.jpg)
+
 * [Adobe Stock - Router Diagram](https://stock.adobe.com/search/images?k=router+diagram)
 
 ## Firewall
