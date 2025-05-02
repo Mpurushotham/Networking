@@ -32,3 +32,5 @@
 | 5631 / 5632    | TCP, UDP                | pcAnywhere                                | Used by Symantec’s remote control software.                          |
 | 6665 - 6669    | TCP                     | Internet Relay Chat (IRC)                 | Ports used for IRC chat communication.                               |
 | 8080           | TCP                     | HTTP Alternate                            | Common for web proxies, alternate HTTP services, or app servers.     |
+
+![image](https://github.com/user-attachments/assets/3a8273fd-226c-45af-bdf2-dfbc4ace2bb1)
