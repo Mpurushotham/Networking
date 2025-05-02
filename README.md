@@ -34,50 +34,66 @@ This repository provides an overview of fundamental networking concepts, accompa
  📘																									
 #OSI Model																									
 * The OSI (Open Systems Interconnection) model is a conceptual framework that standardizes the functions of a telecommunication or computing system into seven distinct layers.																									
- 🌐																									
+
+🌐																									
 #TCP/IP Model																									
 * The TCP/IP model, foundational to the Internet, comprises four layers: Link, Internet, Transport, and Application.																									
- 🏷️																									
+
+🏷️																									
 #MAC Address																									
 * A MAC (Media Access Control) address is a unique identifier assigned to network interfaces for communications at the data link layer.																									
- 📍																									
+
+📍																									
 #IP Address (IPv4/IPv6)																									
-* IPv4 addresses are 32-bit numerical labels, while IPv6 addresses are 128-bit, providing a vastly larger address space.																									
+* IPv4 addresses are 32-bit numerical labels, while IPv6 addresses are 128-bit, providing a vastly larger address space.
+* 																			
  🧮																									
 #Subnet Mask																									
-* A subnet mask divides an IP address into network and host portions, facilitating efficient IP address allocation.																									
+* A subnet mask divides an IP address into network and host portions, facilitating efficient IP address allocation.
+                  				
  🔌																									
 #Ethernet																									
-* Ethernet is a family of networking technologies commonly used in local area networks (LANs).																									
+* Ethernet is a family of networking technologies commonly used in local area networks (LANs).
+                      				
  🔁																									
 #Switch																									
 * A network switch connects devices within a LAN and uses MAC addresses to forward data to the correct destination.																									
- 📡																									
+
+📡																									
 #Router																									
 * Routers direct data packets between different networks, determining optimal paths for data transmission.																									
- 🔥																									
+
+🔥																									
 #Firewall																									
 * Firewalls monitor and control incoming and outgoing network traffic based on predetermined security rules.																									
+
 📶																									
 #Access Point (AP)																									
 * An Access Point allows wireless devices to connect to a wired network using Wi-Fi.																									
+
  💻																									
 #Network Interface Card (NIC)																									
 * A NIC enables a device to connect to a network and communicate with other devices.																									
- 📦																									
+
+📦																									
 #TCP (Transmission Control Protocol)																									
 * TCP is a core protocol that ensures reliable, ordered, and error-checked delivery of data between applications.																									
- 📨																									
+
+📨																									
 #UDP (User Datagram Protocol)																									
 * UDP is a communication protocol that offers a connectionless datagram service, emphasizing low latency over reliability.																									
+
  🌍																									
 #IP (Internet Protocol)																									
 * IP is responsible for addressing and routing packets of data so they can travel across networks and arrive at the correct destination.																									
+
  ⚠️																									
 #ICMP (Internet Control Message Protocol)																									
 * ICMP is used by network devices to send error messages and operational information, such as indicating a requested service is not available.																									
+
 #DNS (Domain Name System)																									
 * DNS translates human-readable domain names (like www.example.com) into IP addresses that computers use to identify each other on the network.																									
+
  🧭																									
 #DHCP (Dynamic Host Configuration Protocol)																									
 * DHCP automatically assigns IP addresses and other network configuration parameters to devices on a network.																									
@@ -85,16 +101,20 @@ This repository provides an overview of fundamental networking concepts, accompa
  🔒																									
 #HTTP/HTTPS																									
 * HTTP is the protocol used for transmitting web pages, while HTTPS is the secure version, encrypting data for safe transmission.																									
+
 #NAT (Network Address Translation)																									
 * NAT modifies network address information in packet headers while in transit, enabling multiple devices on a local network to share a single public IP address.																									
+
  🛡️																									
 #VPN (Virtual Private Network)																									
 * A VPN extends a private network across a public network, allowing users to send and receive data securely as if their devices were directly connected to the private network.																									
- 🗂️																									
+
+🗂️																									
 # VLAN (Virtual Local Area Network)																									
 * A VLAN partitions and isolates network traffic within a physical network, enhancing performance and security.
 
 ## Below are the reference links for each Networking components
+
 ## OSI Model
 
 * ![OSI Model](https://www.imperva.com/learn/wp-content/uploads/sites/13/2021/01/OSI-model.png)
